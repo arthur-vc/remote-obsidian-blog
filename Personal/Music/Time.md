@@ -1,0 +1,3 @@
+#music/lyrics
+the benediction ive been seeing in a vision of conviction, many minds combine another mission, division running freedom out of the kitchen, left with governments fucking up the system, can i really say that im victim, if im playing same game with president position, 
+watch them tell the world to listen to another lie cause they caught up in a lane of admission, id rather die, be blessed with thoughts of suicide, who am i, eye to eye with desire, fire burning my core higher, heaven gate weighing the scales of a liar

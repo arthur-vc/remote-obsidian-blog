@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "a5239b525b312a02",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e971f400f6a93d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d18bdf20652e24eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "valentine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "valentine"
+            }
+          },
+          {
+            "id": "52503799b3ee2816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "keep_hush.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "keep_hush"
+            }
+          },
+          {
+            "id": "fd4f97a9ec0f9cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day dreaming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day dreaming"
+            }
+          },
+          {
+            "id": "e0545d6afd7dbb0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ray mysterio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ray mysterio"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2ffc79feeeedff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ac1eea85c61187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d438fbe1fe42d817",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e19ddcd78687e37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8aeed125ed56816",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6b553fd94e52585f",
+    "type": "split",
+    "children": [
+      {
+        "id": "40eaafb75a55eec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "963a374c8712a7a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sep9-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sep9-25"
+            }
+          },
+          {
+            "id": "af1fa85a92bf6f17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sep9-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sep9-25"
+            }
+          },
+          {
+            "id": "c4cf59250a37819f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c834703e09e0c64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sep9-25.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sep9-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "52503799b3ee2816",
+  "lastOpenFiles": [
+    "day dreaming.md",
+    "ray mysterio.md",
+    "keep_hush.md",
+    "days and nights.md",
+    "Oshi.md",
+    "tell me what your feeling.md",
+    "valentine.md",
+    "aug 29-25.md",
+    "Song 2.md",
+    "Don’t know why.m4a",
+    "so what.md",
+    "Time.md",
+    "Lost in the dark v2.m4a",
+    "Untitled.md",
+    "sep9-25.md",
+    "solful.md",
+    "oct6.md",
+    "lostinthedark_final_v1.wav",
+    "dripn.md",
+    "EP3.md",
+    "slipping.md",
+    "what its for - dreamscape.md",
+    "Slipping",
+    "Welcome.md"
+  ]
+}

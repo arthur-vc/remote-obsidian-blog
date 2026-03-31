@@ -1,0 +1,1 @@
+The hertz (Hz) is the SI unit of frequency often described as being equivalent to one event or cycle per second. Defined as one per second of periodic events.
