@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/blank.md",
+                "file": "Uni/Lecturers/Good Lecturers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blank"
+              "title": "Good Lecturers"
             }
           }
         ],
@@ -250,8 +250,8 @@
   "active": "530da4034477f80b",
   "lastOpenFiles": [
     "Main Dash.md",
-    "obsidian_vault",
     "Journal/blank.md",
+    "obsidian_vault",
     "root",
     "Buisness/blank.md",
     "Todo.md",
