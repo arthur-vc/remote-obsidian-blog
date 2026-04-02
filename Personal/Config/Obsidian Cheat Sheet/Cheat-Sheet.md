@@ -77,7 +77,7 @@ Text Size:
 
 - [x] This is a completed task.
 
-- [ ] This is an incomplete task.
+- [x] This is an incomplete task. ✅ 2026-04-01
 
 ```
 
@@ -93,11 +93,11 @@ Text Size:
 
 ```
 
-- [ ] Task item 1
+- [x] Task item 1 ✅ 2026-04-01
 
     - [ ] Subtask 1
 
-- [ ] Task item 2
+- [x] Task item 2 ✅ 2026-04-01
 
     - [ ] Subtask 1
 

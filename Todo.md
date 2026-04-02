@@ -1,15 +1,13 @@
 # UNI
 ## Lectures
-- [x] Maths W8 - Calculus - 14/04/25
-- [x] Physics W8 - Thermodynamics - 14/04/25
-- [x] Prac. Intro to Elec. W8 - Signals - 14/04/25
-- [x] Maths W11 Calculus Monday
-- [x] Maths W11 Linear Alg Tuesday
-- [x] Maths W11 Linear Alg Wednesday
-- [x] Maths W12 Calc Tuesday
-- [x] Maths W12 Linear Alg Wed
-## Homework
-- [x] Physics Reading
+- [ ] WK5 ELEC 2100 Lecture
+- [ ] WK6 COMP 2123 Lecture 
+- [ ] WK6 COMP 2123 Tutorial 
+- [ ] WK6 MATH 2061 Lecture ✅ 2026-04-02
+## Quizs
+- [ ] MATHS 2601 Quiz 4 - Eignenvalues etc.
+- [ ] COMP 2123 Quiz for Wk 6
+- [ ] ELEC 2100 Quiz for Wk 6
 ## Study
 - [x] Physics - Mechanics
 - [x] Maths
@@ -40,6 +38,7 @@
 
 # WORK
 - [x] Work Hours
+- [ ] Work Hours - 1/04/26 - 10:30/5:30
 
 
 # Ideas

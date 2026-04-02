@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Lecturers/Good Lecturers.md",
+                "file": "Journal/blank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Good Lecturers"
+              "title": "blank"
             }
           }
         ],
@@ -249,15 +249,18 @@
   },
   "active": "530da4034477f80b",
   "lastOpenFiles": [
-    "Uni/Elec Eng/test.md",
-    "Uni/Lecturers/Good Lecturers.md",
-    "Uni/Elec Eng/ELEC 2602.md",
     "Main Dash.md",
+    "Todo.md",
+    "Buisness/Real Time Dynamics/CRAC Unit.md",
     "Journal/blank.md",
+    "Buisness/blank.md",
+    "Uni/Elec Eng/ELEC 2602.md",
+    "Uni/Lecturers/Good Lecturers.md",
+    "Uni/Programing/COMP2123 Assignment 1.md",
+    "Buisness/Real Time Dynamics",
+    "Uni/Elec Eng/test.md",
     "obsidian_vault",
     "root",
-    "Buisness/blank.md",
-    "Todo.md",
     "remote-blog/README.md",
     "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
     "remote-blog/publish/update-publish-settings-github-actions.md",
@@ -288,13 +291,10 @@
     "Personal/Music/days and nights.md",
     "Personal/Music/day dreaming.md",
     "Personal/Music/aug 29-25.md",
-    "Uni/Elec Eng/ELEC 1004.md",
-    "Uni/Elec Eng/ELEC 1061.md",
     "Blog",
     "Vlog",
     "Business/Journal/Technical/Migrated/assets/Brand.psd",
     "Business/Journal/Technical/Migrated/assets/Brand-techpress.psd",
-    "Business/Journal/Technical/Migrated/assets/Brand-C.psd",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
