@@ -1,17 +1,22 @@
 # UNI
 ## Lectures
-- [ ] WK5 ELEC 2100 Lecture
-- [ ] WK6 COMP 2123 Lecture 
+- [x] WK5 ELEC 2100 Lecture ✅ 2026-04-14
+- [x] WK6 ELEC 2100 Lecture ✅ 2026-04-10
+- [x] WK6 COMP 2123 Lecture ✅ 2026-04-11
 - [ ] WK6 COMP 2123 Tutorial 
-- [ ] WK6 MATH 2061 Lecture ✅ 2026-04-02
+- [x] WK6 MATH 2061 Lecture ✅ 2026-04-10
+- [ ] Maths WK7 Lectures 2&3
 ## Quizs
-- [ ] MATHS 2601 Quiz 4 - Eignenvalues etc.
-- [ ] COMP 2123 Quiz for Wk 6
-- [ ] ELEC 2100 Quiz for Wk 6
+- [x] MATHS 2601 Quiz 4 - Eignenvalues & Diagonalisation ✅ 2026-04-10
+- [x] COMP 2123 Quiz for Wk 6 ✅ 2026-04-11
+- [x] ELEC 2100 Quiz for Wk 6 ✅ 2026-04-14
+- [ ] ELEC 2100 Prelab Quiz
 ## Study
 - [x] Physics - Mechanics
 - [x] Maths
 - [x] INFO 1110
+- [ ] Maths Midterm - NEXT WED
+- [ ] ELEC Lab Preperation
 ## Assignments
 - [x] Electrical Group Lab Report - May 5
 - [x] Advanced Software Assignment - May 7
@@ -24,6 +29,7 @@
 - [x] Maths Final
 - [x] Physis Final
 - [x] Software Final
+- [ ] Maths Midterm - Wed 15/04
 
 # LIFE
 - [x] Superannuation Fund
@@ -33,12 +39,14 @@
 	- [x] Bike rental
 	- [x] Acom
 - [x] Tent 
-- [ ] Bike
+- [ ] Bike - Electricals
+- [ ] Surf
 - [x] Thank you card
 
 # WORK
 - [x] Work Hours
 - [ ] Work Hours - 1/04/26 - 10:30/5:30
+- [ ] Witmotion Vibration sensors - [[Vibration Sensors|Vibration Sensors]]
 
 
 # Ideas

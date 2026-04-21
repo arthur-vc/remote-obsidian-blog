@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/blank.md",
+                "file": "Personal/Music/days and nights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blank"
+              "title": "days and nights"
+            }
+          },
+          {
+            "id": "5f8b033fd5e484dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Elec Eng/ELEC 2602.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ELEC 2602"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "279416c7625b4660",
@@ -229,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,14 +261,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "530da4034477f80b",
+  "active": "5f8b033fd5e484dd",
   "lastOpenFiles": [
+    "Uni/Elec Eng/ELEC 1004.md",
+    "Buisness/Terra DC/Vibration Sensors.md",
+    "Personal/Music/days and nights.md",
+    "Personal/Music/falling for days.md",
+    "Personal/Music/day dreaming.md",
+    "Personal/Music/keep_hush.md",
+    "Personal/Music/aug 29-25.md",
+    "Personal/Music/dripn.md",
+    "Personal/Music/Lost in the dark v2.m4a",
+    "Personal/Music/Don’t know why.m4a",
     "Main Dash.md",
     "Todo.md",
-    "Buisness/Real Time Dynamics/CRAC Unit.md",
-    "Journal/blank.md",
-    "Buisness/blank.md",
     "Uni/Elec Eng/ELEC 2602.md",
+    "Buisness/blank.md",
+    "Buisness/Terra DC",
+    "Buisness/Real Time Dynamics/Untitled.md",
+    "Journal/blank.md",
+    "Buisness/Real Time Dynamics/CRAC Unit.md",
     "Uni/Lecturers/Good Lecturers.md",
     "Uni/Programing/COMP2123 Assignment 1.md",
     "Buisness/Real Time Dynamics",
@@ -269,10 +295,6 @@
     "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
     "remote-blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
     "remote-blog/publish/install-linked-blog-starter-locally.md",
-    "remote-blog/publish/how-linked-blog-starter-works.md",
-    "remote-blog/publish/home.md",
-    "remote-blog/publish/connect-obsidian-vault-with-github.md",
-    "remote-blog/publish/accepted-markdown-metadata.md",
     "remote-blog/publish/attachments/vercel-project-id.png",
     "remote-blog/publish/attachments/vercel-create-token.png",
     "remote-blog/publish/attachments/vercel-account-id.png",
@@ -283,18 +305,10 @@
     "remote-blog/publish/attachments/fn-website-demo.gif",
     "remote-blog/publish/attachments/enable-actions-github.png",
     "remote-blog/publish/attachments/disconnect-repo-vercel.png",
-    "remote-blog/publish/get-project-id-account-id-and-token-vercel.md",
-    "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
     "remote-blog/publish/attachments",
     "remote-blog/publish",
     "remote-blog",
-    "Personal/Music/days and nights.md",
-    "Personal/Music/day dreaming.md",
-    "Personal/Music/aug 29-25.md",
     "Blog",
-    "Vlog",
-    "Business/Journal/Technical/Migrated/assets/Brand.psd",
-    "Business/Journal/Technical/Migrated/assets/Brand-techpress.psd",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"

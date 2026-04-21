@@ -4,15 +4,13 @@
 ```tasks
 not done
 ```
-
-
 # whats on:
 ---
-- Jazz Thursday
-- LinkedIn Thomas Oki - respond
+- bike electricals
 # next 3 days:
 ---
-- friday with mindi
+- potluck thursday/friday
+- Timesheets for CodeCamp training
 # this week:
 ---
-- 
+- internships - photonics

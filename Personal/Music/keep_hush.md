@@ -14,6 +14,7 @@ you cannot afford these tools
 
 step in the booth, cutting my sanity loose
 dont tell me its better to lose
+coming for the neck and im cutting the chains loose
 im cutting the chains on the neck right loose 
 dont let them embezle the noose, 
 to tell you the truth, the devil might level this mood
@@ -27,3 +28,6 @@ blues
 
 
 like judas to hayzeus
+
+this young boy came with a devilish plan 
+ no michelin man
