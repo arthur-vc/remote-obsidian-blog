@@ -9,8 +9,8 @@ not done
 - bike electricals
 # next 3 days:
 ---
-- potluck thursday/friday
-- Timesheets for CodeCamp training
+- Elec quiz
+- Comp assignment
 # this week:
 ---
 - internships - photonics

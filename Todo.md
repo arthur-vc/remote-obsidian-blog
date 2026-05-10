@@ -3,24 +3,35 @@
 - [x] WK5 ELEC 2100 Lecture ✅ 2026-04-14
 - [x] WK6 ELEC 2100 Lecture ✅ 2026-04-10
 - [x] WK6 COMP 2123 Lecture ✅ 2026-04-11
-- [ ] WK6 COMP 2123 Tutorial 
+- [x] WK6 COMP 2123 Tutorial ✅ 2026-04-22
 - [x] WK6 MATH 2061 Lecture ✅ 2026-04-10
-- [ ] Maths WK7 Lectures 2&3
+- [x] Maths WK7 Lectures 2&3 ✅ 2026-04-22
+- [x] Maths WK9 ✅ 2026-05-
+- [ ] ELEC 2100 WK10
+- [x] COMP 2123 WK10 ✅ 2026-05-10
 ## Quizs
 - [x] MATHS 2601 Quiz 4 - Eignenvalues & Diagonalisation ✅ 2026-04-10
 - [x] COMP 2123 Quiz for Wk 6 ✅ 2026-04-11
 - [x] ELEC 2100 Quiz for Wk 6 ✅ 2026-04-14
-- [ ] ELEC 2100 Prelab Quiz
+- [x] ELEC 2100 Prelab Quiz ✅ 2026-04-22
+- [x] COMP 2123 Quiz ✅ 2026-05-07
+- [x] ELEC 2100 Quiz ✅ 2026-05-07
+- [ ] ELEC 2100
+- [x] COMP 2123 ✅ 2026-05-10
 ## Study
 - [x] Physics - Mechanics
 - [x] Maths
 - [x] INFO 1110
-- [ ] Maths Midterm - NEXT WED
-- [ ] ELEC Lab Preperation
+- [x] Maths Midterm - NEXT WED ✅ 2026-04-22
+- [x] ELEC Lab Preperation ✅ 2026-04-22
+- [ ] ELEC 2100 Lab Prework
 ## Assignments
 - [x] Electrical Group Lab Report - May 5
 - [x] Advanced Software Assignment - May 7
 - [x] Maths Assignment - May 19th
+- [x] ELEC 2100 Quiz WK10 ✅ 2026-05-07
+- [ ] COMP 2123 Assignment 
+- [ ] ELEC 2602 Oral Quiz
 ## Exams
 - [x] Maths Midterm - 15/04/25
 - [x] INFO 1110 Midterm - 15/04/25
@@ -29,7 +40,7 @@
 - [x] Maths Final
 - [x] Physis Final
 - [x] Software Final
-- [ ] Maths Midterm - Wed 15/04
+- [x] Maths Midterm - Wed 15/04 ✅ 2026-04-22
 
 # LIFE
 - [x] Superannuation Fund
@@ -40,6 +51,7 @@
 	- [x] Acom
 - [x] Tent 
 - [ ] Bike - Electricals
+- [ ] Motorbike course - w Tenam
 - [ ] Surf
 - [x] Thank you card
 
@@ -57,4 +69,9 @@ Company Ideas
 	Shows the most recent version of the beat, but has previous versions you can switch to main one
 	Synced across devices
 - Fashion Design
-- 
+
+## Engineering
+### Satellite Tracker
+- Add SGP4 orbit propogation and RK4 orbit propogation
+### GPS Jammer
+- Research this
