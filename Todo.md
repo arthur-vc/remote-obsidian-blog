@@ -16,7 +16,7 @@
 - [x] ELEC 2100 Prelab Quiz ✅ 2026-04-22
 - [x] COMP 2123 Quiz ✅ 2026-05-07
 - [x] ELEC 2100 Quiz ✅ 2026-05-07
-- [ ] ELEC 2100
+- [x] ELEC 2100 ✅ 2026-05-11
 - [x] COMP 2123 ✅ 2026-05-10
 ## Study
 - [x] Physics - Mechanics
@@ -30,7 +30,7 @@
 - [x] Advanced Software Assignment - May 7
 - [x] Maths Assignment - May 19th
 - [x] ELEC 2100 Quiz WK10 ✅ 2026-05-07
-- [ ] COMP 2123 Assignment 
+- [x] COMP 2123 Assignment ✅ 2026-05-11
 - [ ] ELEC 2602 Oral Quiz
 ## Exams
 - [x] Maths Midterm - 15/04/25

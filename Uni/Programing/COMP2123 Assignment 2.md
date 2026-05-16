@@ -4,9 +4,14 @@
 The correctness argument is not sound. The algorithm tests for a "principal edge", which is an edge in a tree of n nodes that splits the tree in two equal parts when removed. The primary issue in the correctness argument stems from the statement:
 "Every time we make a recursive call, the edge splits the tree more evenly."
 While this is true for even and odd binary trees, however it does not hold for cases of non binary trees, such as a star tree:
-	.      1
-	   /.   |.   \
-	2.    3.    4
+```mermaid
+%%{init: {"theme": "neutral"}}%%
+
+graph TD;
+id1((1)) --> id2((2));
+id1((1)) --> id3((3));
+id1((1)) --> id4((4));
+```
 When the algorithm encounters this tree, starting from some arbitrary edge, it will first check if it the current edge is primary. If for example, we start at edge $(1,2)$ - which is not principle as if removed, the remaining two trees $T_1 \set{2}$ , $T_2 \set{1,3,4}$ are not less than or equal to $\lceil {\frac{n}{2}} \rceil$ - then the algorithm will more to an adjacent edge, minimising the maximum of the two subtrees created when that edge is removed. Since all edges will result in the same size of subtrees when removed, the algorithm will end up looping through the tree infinitely, never returning a principal edge as there is no principal edge. Furthermore, this occasion does not "split the tree more evenly", as it splits the tree the same amount each edge selection - therefore this statement of the correctness argument is disproved. 
 Another issue comes from the section of the correctness argument which claims:
 "Eventually, the split is perfect."
