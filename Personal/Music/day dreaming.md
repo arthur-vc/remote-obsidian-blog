@@ -20,3 +20,9 @@ like shit im awake, but i dont even know whats real or fake, right from wrong, t
 does it matter i dont even know whats fake, whats real whats wrong whats right regardless your still gonna tell me to stay, 
 
 i dont do what im 
+
+
+
+
+
+i still despise your deepest lies cover face i see your eyes, the highs the lows the pain the gain that make lives 

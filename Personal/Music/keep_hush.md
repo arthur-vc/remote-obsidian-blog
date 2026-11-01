@@ -2,6 +2,8 @@
 chorus
 tell me the truth
 tell me what the devil will do
+shit i unlevel the truth
+embezzle the noose, 
 tell me that the level is through 
 tell me the weather hold true
 tell me I flew, 
